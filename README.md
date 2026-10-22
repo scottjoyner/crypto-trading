@@ -1,9 +1,19 @@
 # Crypto Trading Platform
 
 <!-- repo-entrypoint-guide:start -->
-> **Project orientation:** This repository is a modular cryptocurrency-trading research and execution scaffold. Start with [Overview](#overview), [Architecture](#architecture), and [Quick Start](#quick-start), and validate locally before considering any exchange integration.
-> 
-> **Risk controls:** Backtests and replay results are not evidence of live profitability. Keep trading disabled by default, protect exchange secrets, and require explicit exposure limits, approvals, and paper-trading evidence before enabling order placement.
+## Repository guide
+
+**Project orientation:** This repository is a modular cryptocurrency-trading research and execution scaffold. Start with [Overview](#overview), [Architecture](#architecture), and [Quick Start](#quick-start), and validate locally before considering any exchange integration.
+
+**Risk controls:** Backtests and replay results are not evidence of live profitability. Keep trading disabled by default, protect exchange secrets, and require explicit exposure limits, approvals, and paper-trading evidence before enabling order placement.
+
+### Find your way
+
+- [Overview](#overview)
+- [Architecture](#architecture)
+- [Quick Start](#quick-start)
+- [Development](#development)
+- [Future Development](#future-development)
 <!-- repo-entrypoint-guide:end -->
 
 
